@@ -1,4 +1,4 @@
-package com.hevlyo.santanderdevweek2023;
+package com.hevlyo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
